@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"D:\task-18\tests\features\login_and_logout.feature: Unsuccessful Login","809","test_unsuccessful_login[wrong@a.com-invalid123]","tests.step_def","Wed Aug 27 20:39:34 IST 2025","passed","Wed Aug 27 20:39:35 IST 2025","","test_login_steps","",""
+"D:\task-18\tests\features\login_and_logout.feature: UI Field Validation","442","test_ui_field_validation","tests.step_def","Wed Aug 27 20:39:35 IST 2025","passed","Wed Aug 27 20:39:35 IST 2025","","test_login_steps","",""
+"D:\task-18\tests\features\login_and_logout.feature: Successful Login","23368","test_successful_login","tests.step_def","Wed Aug 27 20:39:10 IST 2025","passed","Wed Aug 27 20:39:34 IST 2025","","test_login_steps","",""
